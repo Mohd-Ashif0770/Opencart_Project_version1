@@ -20,7 +20,7 @@ This project uses **Java**, **Selenium**, and **TestNG** within a **Hybrid Frame
 ## Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mohd-Ashif0770/your-project-repo.git
+   git clone https://github.com/Mohd-Ashif0770/Opencart_Project_version1.git
    ```
 2. Install dependencies with Maven:
    ```bash
@@ -36,7 +36,3 @@ This project uses **Java**, **Selenium**, and **TestNG** within a **Hybrid Frame
 
 ## Contact
 For questions, reach me at **mohdashif0770@gmail.com**.
-
----
-
-This version is concise, formatted with GitHub markdown (`#`), and provides all essential project information.
